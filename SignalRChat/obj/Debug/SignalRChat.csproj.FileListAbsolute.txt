@@ -1,0 +1,40 @@
+C:\Users\Treveshan Naidoo\Documents\Visual Studio 2015\Projects\C#\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\Treveshan Naidoo\Documents\Visual Studio 2015\Projects\C#\SignalRChat\bin\SignalRChat.dll
+C:\Users\Treveshan Naidoo\Documents\Visual Studio 2015\Projects\C#\SignalRChat\bin\SignalRChat.pdb
+C:\Users\Treveshan Naidoo\Documents\Visual Studio 2015\Projects\C#\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Treveshan Naidoo\Documents\Visual Studio 2015\Projects\C#\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Treveshan Naidoo\Documents\Visual Studio 2015\Projects\C#\SignalRChat\bin\Microsoft.Owin.dll
+C:\Users\Treveshan Naidoo\Documents\Visual Studio 2015\Projects\C#\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Treveshan Naidoo\Documents\Visual Studio 2015\Projects\C#\SignalRChat\bin\Microsoft.Owin.Security.dll
+C:\Users\Treveshan Naidoo\Documents\Visual Studio 2015\Projects\C#\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Treveshan Naidoo\Documents\Visual Studio 2015\Projects\C#\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\Treveshan Naidoo\Documents\Visual Studio 2015\Projects\C#\SignalRChat\bin\Owin.dll
+C:\Users\Treveshan Naidoo\Documents\Visual Studio 2015\Projects\C#\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Treveshan Naidoo\Documents\Visual Studio 2015\Projects\C#\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Treveshan Naidoo\Documents\Visual Studio 2015\Projects\C#\SignalRChat\bin\Microsoft.Owin.xml
+C:\Users\Treveshan Naidoo\Documents\Visual Studio 2015\Projects\C#\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Treveshan Naidoo\Documents\Visual Studio 2015\Projects\C#\SignalRChat\bin\Microsoft.Owin.Security.xml
+C:\Users\Treveshan Naidoo\Documents\Visual Studio 2015\Projects\C#\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\Treveshan Naidoo\Documents\Visual Studio 2015\Projects\C#\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+C:\Users\Treveshan Naidoo\Documents\Visual Studio 2015\Projects\C#\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\Treveshan Naidoo\Documents\Visual Studio 2015\Projects\C#\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Systems\ChillChat_SignalR_Server\SignalRChat\bin\SignalRChat.dll.config
+C:\Systems\ChillChat_SignalR_Server\SignalRChat\bin\SignalRChat.dll
+C:\Systems\ChillChat_SignalR_Server\SignalRChat\bin\SignalRChat.pdb
+C:\Systems\ChillChat_SignalR_Server\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Systems\ChillChat_SignalR_Server\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Systems\ChillChat_SignalR_Server\SignalRChat\bin\Microsoft.Owin.dll
+C:\Systems\ChillChat_SignalR_Server\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Systems\ChillChat_SignalR_Server\SignalRChat\bin\Microsoft.Owin.Security.dll
+C:\Systems\ChillChat_SignalR_Server\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Systems\ChillChat_SignalR_Server\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Systems\ChillChat_SignalR_Server\SignalRChat\bin\Owin.dll
+C:\Systems\ChillChat_SignalR_Server\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Systems\ChillChat_SignalR_Server\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Systems\ChillChat_SignalR_Server\SignalRChat\bin\Microsoft.Owin.xml
+C:\Systems\ChillChat_SignalR_Server\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Systems\ChillChat_SignalR_Server\SignalRChat\bin\Microsoft.Owin.Security.xml
+C:\Systems\ChillChat_SignalR_Server\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Systems\ChillChat_SignalR_Server\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+C:\Systems\ChillChat_SignalR_Server\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Systems\ChillChat_SignalR_Server\SignalRChat\obj\Debug\SignalRChat.pdb
